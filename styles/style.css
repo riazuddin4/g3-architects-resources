@@ -192,6 +192,19 @@ main > section{
 .sponsor-companies img{
     filter: grayscale(100%);
 }
+.footer{
+    max-width: 1440px;
+    border: 2px solid aqua;
+    background-color: #FFF4E7;
+    margin-top: 130px;
+    
+}
+/* .footer-container{
+    background: #FFF4E7;
+} */
+.footer-text{
+    text-align: center;
+}
 
 
 
